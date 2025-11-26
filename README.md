@@ -1,4 +1,4 @@
-<img width="992" height="895" alt="question3 b" src="https://github.com/user-attachments/assets/2939e593-b969-4328-b552-77e316a2da62" />## Questin 3: Suspicious Login Monitoring (Advanced Triggers)
+## Questin 3: Suspicious Login Monitoring (Advanced Triggers)
 Overview: The goal was to monitor user logins and issue an immediate security alert if any user failed to log in more than two times in the same day.
 
 Implementation:
