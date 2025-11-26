@@ -1,7 +1,7 @@
 Group Members:
 1. Iradukunda Nicole 28037                                                                                                                 
-2.Akimana janviere  26769
-3.IKAZE Regis  28757
+2.Akimana janviere  26769                                                                                                                  
+3.IKAZE Regis  28757                                                                                                                       
 4. INEZAYASE Isabelle 28031
 
 
