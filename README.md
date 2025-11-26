@@ -1,8 +1,8 @@
 ###### Group Members:
-1. Iradukunda Nicole 28037                                                                                                                 
-2.Akimana janviere  26769                                                                                                                  
-3.IKAZE Regis  28757
-4.INEZAYASE Isabelle 28031                                                                                                                5.KATUREBE BENON 29143                                                                                                                     6.SHIMWA HOPE 28784                                                                                                                        7.Sheja Radan Boris 29096
+1. Iradukunda Nicole 28037<br>                                                                                                
+2.Akimana janviere  26769 <br>                                                                                    
+3.IKAZE Regis  28757<br>
+4.INEZAYASE Isabelle 28031<br>                                                                                                5.KATUREBE BENON 29143   <br>                                                                                                 6.SHIMWA HOPE 28784    <br>                                                                                                   7.Sheja Radan Boris 29096 <br>
 
 
                                       
