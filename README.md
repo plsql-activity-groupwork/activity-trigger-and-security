@@ -3,7 +3,7 @@ Group Members:
 2.Akimana janviere  26769                                                                                                                  
 3.IKAZE Regis  28757                                                                                                                       
 4. INEZAYASE Isabelle 28031
-5. KATUREBE BENON 29143
+4. KATUREBE BENON 29143
 
 
 ## Questin 3: Suspicious Login Monitoring (Advanced Triggers)
