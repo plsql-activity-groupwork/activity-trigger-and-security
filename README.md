@@ -1,3 +1,8 @@
+Group Members:
+1. Iradukunda Nicole 28037
+2. 
+
+
 ## Questin 3: Suspicious Login Monitoring (Advanced Triggers)
 Overview: The goal was to monitor user logins and issue an immediate security alert if any user failed to log in more than two times in the same day.
 
