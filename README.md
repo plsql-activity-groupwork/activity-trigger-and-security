@@ -34,6 +34,6 @@ show_all_patients: A function that returns a SYS_REFCURSOR, allowing the calling
 <img width="1035" height="885" alt="question4_b1" src="https://github.com/user-attachments/assets/af5b64a8-65cc-4c11-95c6-21db7bf3c898" />
 <img width="983" height="915" alt="question4_b2" src="https://github.com/user-attachments/assets/f5eb54fe-fe8a-4205-b329-f99ba915d49a" />
 
---
+##
 Thank you for visiting our activities.
 
