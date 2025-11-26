@@ -4,6 +4,7 @@ Group Members:
 3.IKAZE Regis  28757                                                                                                                       
 4. INEZAYASE Isabelle 28031
 5.KATUREBE BENON 29143
+6.SHIMWA HOPE 28784
 
 
 ## Questin 3: Suspicious Login Monitoring (Advanced Triggers)
